@@ -1,12 +1,12 @@
-<h1 align="left">Hello There, I'm Mario</h1>
-<h3 align="left">A swabian data scientist from germany</h3>
+<h1 align="left">Hello There, I'm Zoe</h1>
+<h3 align="left">A swabian data scientist and software developer from germany</h3>
 
-- 📫 How to reach me **main@mario-pfob.de**
-- 📄 Know about my experiences [https://mario-pfob.de/](https://mario-pfob.de/)
+- 📫 How to reach me **main@zoe-pfob.de**
+- 📄 Know about my experiences [https://zoe-pfob.de/](https://zoe-pfob.de/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mario-pfob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-pfob" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zoe-pfob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoe-pfob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Hobbies</h3>
